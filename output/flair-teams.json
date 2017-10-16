@@ -1,0 +1,98 @@
+{
+    "misfits": {
+        "col": "01",
+        "sheet": "teams",
+        "row": "02",
+        "name": "Misfits"
+    },
+    "kungarna": {
+        "col": "10",
+        "sheet": "teams",
+        "row": "01",
+        "name": "Kungarna"
+    },
+    "cloud9": {
+        "col": "03",
+        "sheet": "teams",
+        "row": "01",
+        "name": "Cloud 9"
+    },
+    "gamersorigin": {
+        "col": "08",
+        "sheet": "teams",
+        "row": "01",
+        "name": "GamersOrigin"
+    },
+    "fnrgfe": {
+        "col": "06",
+        "sheet": "teams",
+        "row": "01",
+        "name": "FNRGFE"
+    },
+    "renegades": {
+        "col": "02",
+        "sheet": "teams",
+        "row": "02",
+        "name": "Renegades"
+    },
+    "123": {
+        "col": "01",
+        "sheet": "teams",
+        "row": "01",
+        "name": "123"
+    },
+    "team-singularity": {
+        "col": "05",
+        "sheet": "teams",
+        "row": "02",
+        "name": "Team Singularity"
+    },
+    "immortals": {
+        "col": "09",
+        "sheet": "teams",
+        "row": "01",
+        "name": "Immortals"
+    },
+    "envyus": {
+        "col": "05",
+        "sheet": "teams",
+        "row": "01",
+        "name": "EnVyUs"
+    },
+    "eunited": {
+        "col": "06",
+        "sheet": "teams",
+        "row": "02",
+        "name": "eUnited"
+    },
+    "bazooka-puppiez": {
+        "col": "02",
+        "sheet": "teams",
+        "row": "01",
+        "name": "Bazooka Puppiez"
+    },
+    "team-gigantti": {
+        "col": "04",
+        "sheet": "teams",
+        "row": "02",
+        "name": "Team Gigantti"
+    },
+    "envision": {
+        "col": "04",
+        "sheet": "teams",
+        "row": "01",
+        "name": "EnVision"
+    },
+    "faze": {
+        "col": "07",
+        "sheet": "teams",
+        "row": "01",
+        "name": "FaZe"
+    },
+    "rogue": {
+        "col": "03",
+        "sheet": "teams",
+        "row": "02",
+        "name": "Rogue"
+    }
+}
