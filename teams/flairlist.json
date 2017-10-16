@@ -1,66 +1,122 @@
 [
     {
         "id": "123",
-        "name": "123"
+        "name": "123",
+        "active": true
+    },
+    {
+        "id": "1246",
+        "name": "1246",
+        "active": true
     },
     {
         "id": "bazooka-puppiez",
-        "name": "Bazooka Puppiez"
+        "name": "Bazooka Puppiez",
+        "active": true
     },
     {
         "id": "cloud9",
-        "name": "Cloud 9"
+        "name": "Cloud 9",
+        "active": true
     },
     {
         "id": "envision",
-        "name": "EnVision"
+        "name": "EnVision",
+        "active": true
     },
     {
         "id": "envyus",
-        "name": "EnVyUs"
-    },
-    {
-        "id": "fnrgfe",
-        "name": "FNRGFE"
-    },
-    {
-        "id": "faze",
-        "name": "FaZe"
-    },
-    {
-        "id": "gamersorigin",
-        "name": "GamersOrigin"
-    },
-    {
-        "id": "immortals",
-        "name": "Immortals"
-    },
-    {
-        "id": "kungarna",
-        "name": "Kungarna"
-    },
-    {
-        "id": "misfits",
-        "name": "Misfits"
-    },
-    {
-        "id": "renegades",
-        "name": "Renegades"
-    },
-    {
-        "id": "rogue",
-        "name": "Rogue"
-    },
-    {
-        "id": "team-gigantti",
-        "name": "Team Gigantti"
-    },
-    {
-        "id": "team-singularity",
-        "name": "Team Singularity"
+        "name": "EnVyUs",
+        "active": true
     },
     {
         "id": "eunited",
-        "name": "eUnited"
+        "name": "eUnited",
+        "active": true
+    },
+    {
+        "id": "faze",
+        "name": "FaZe",
+        "active": true
+    },
+    {
+        "id": "fnrgfe",
+        "name": "FNRGFE",
+        "active": true
+    },
+    {
+        "id": "ftd-club",
+        "name": "FTD Club",
+        "active": true
+    },
+    {
+        "id": "gamersorigin",
+        "name": "GamersOrigin",
+        "active": true
+    },
+    {
+        "id": "immortals",
+        "name": "Immortals",
+        "active": true
+    },
+    {
+        "id": "kungarna",
+        "name": "Kungarna",
+        "active": true
+    },
+    {
+        "id": "lgd-gaming",
+        "name": "LGD Gaming",
+        "active": true
+    },
+    {
+        "id": "lucky-future",
+        "name": "Lucky Future",
+        "active": true
+    },
+    {
+        "id": "miracle-team-one",
+        "name": "Miracle Team One",
+        "active": true
+    },
+    {
+        "id": "miraculous-youngster",
+        "name": "Miraculous Youngster",
+        "active": true
+    },
+    {
+        "id": "misfits",
+        "name": "Misfits",
+        "active": true
+    },
+    {
+        "id": "oh-my-god",
+        "name": "Oh My God",
+        "active": true
+    },
+    {
+        "id": "renegades",
+        "name": "Renegades",
+        "active": true
+    },
+    {
+        "id": "rogue",
+        "name": "Rogue",
+        "active": true
+    },
+    {
+        "id": "team-gigantti",
+        "name": "Team Gigantti",
+        "active": true
+    },
+    {
+        "id": "team-singularity",
+        "name": "Team Singularity",
+        "active": true
+    },
+    {
+        "id": "vici-gaming",
+        "name": "Vici Gaming",
+        "active": true
     }
 ]

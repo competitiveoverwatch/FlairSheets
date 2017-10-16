@@ -5,10 +5,10 @@ import os, json, sys
 def makeSpritesheet(sheet, size=(22,22), suffix=None, writejson=True):
 	# get flairlist
 	with open(os.path.join(sheet, 'flairlist.json')) as flairfile:
-		flairlist = sorted(json.load(flairfile), key=lambda k: k['name']) 
+		flairlist = sorted(json.load(flairfile), key=lambda k: k['id']) 
 		
 	# create spritesheet basestring
-	rows = int(len(flairlist)/10) + 1
+	rows = int((len(flairlist)-1)/10) + 1
 	spritesheetSize = (10*size[0],rows*size[1])
 	spritesheet = Image.new('RGBA', spritesheetSize)
 
@@ -31,6 +31,18 @@ def makeSpritesheet(sheet, size=(22,22), suffix=None, writejson=True):
 		offsetX = ((size[0] - imageSize[0]) / 2)  +  col * size[0]
 		offsetY = ((size[1] - imageSize[1]) / 2)  +  row * size[1]
 		offset = (int(offsetX), int(offsetY)) 
+		
+		if not flair['active']:
+			# desaturate
+			colorConverter = ImageEnhance.Color(image)
+			image = colorConverter.enhance(0.1)
+			# 50% transparency
+			bands = list(image.split())
+			if len(bands) == 4:
+				# Assuming alpha is the last band
+				bands[3] = bands[3].point(lambda x: x*0.5)
+			image = Image.merge(image.mode, bands)
+			
 		
 		# insert image
 		spritesheet.paste(image, offset)
