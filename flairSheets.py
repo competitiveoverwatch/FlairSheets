@@ -32,10 +32,11 @@ def makeSpritesheet(sheet, size=(22,22), suffix=None, writejson=True):
 		offsetY = ((size[1] - imageSize[1]) / 2)  +  row * size[1]
 		offset = (int(offsetX), int(offsetY)) 
 		
+		# faded flair
 		if not flair['active']:
 			# desaturate
 			colorConverter = ImageEnhance.Color(image)
-			image = colorConverter.enhance(0.1)
+			image = colorConverter.enhance(0.2)
 			# 50% transparency
 			bands = list(image.split())
 			if len(bands) == 4:
@@ -47,10 +48,11 @@ def makeSpritesheet(sheet, size=(22,22), suffix=None, writejson=True):
 		# insert image
 		spritesheet.paste(image, offset)
 		
-		# update flair
+		# update flair information
 		flairinfo['row'] = '%02d' % (row + 1)
 		flairinfo['col'] = '%02d' % (col + 1)
 		flairinfo['sheet'] = sheet
+		flairinfo['active'] = flair['active']
 		flairinfos[flair['id']] = flairinfo
 		
 	# output spritesheet

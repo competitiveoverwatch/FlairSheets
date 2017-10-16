@@ -15,8 +15,38 @@
         "active": true
     },
     {
+        "id": "ahq-e-sports-club",
+        "name": "ahq e-Sports Club",
+        "active": true
+    },
+    {
+        "id": "anox",
+        "name": "Anox",
+        "active": false
+    },
+    {
+        "id": "arc-6",
+        "name": "ARC 6",
+        "active": false
+    },
+    {
+        "id": "ardeont",
+        "name": "Ardeont",
+        "active": true
+    },
+    {
         "id": "bazooka-puppiez",
         "name": "Bazooka Puppiez",
+        "active": true
+    },
+    {
+        "id": "blank-esports",
+        "name": "Blank Esports",
+        "active": true
+    },
+    {
+        "id": "brasil-gaming-house",
+        "name": "Brasil Gaming House",
         "active": true
     },
     {
@@ -30,14 +60,29 @@
         "active": true
     },
     {
+        "id": "complexity-gaming",
+        "name": "CompLexity Gaming",
+        "active": false
+    },
+    {
         "id": "conbox",
         "name": "CONBOX",
         "active": true
     },
     {
+        "id": "counter-logic-gaming",
+        "name": "Counter Logic Gaming",
+        "active": false
+    },
+    {
         "id": "dallas-fuel",
         "name": "Dallas Fuel",
         "active": true
+    },
+    {
+        "id": "dignitas",
+        "name": "Dignitas",
+        "active": false
     },
     {
         "id": "envision",
@@ -55,6 +100,11 @@
         "active": true
     },
     {
+        "id": "evil-geniuses",
+        "name": "Evil Geniuses",
+        "active": false
+    },
+    {
         "id": "faze",
         "name": "FaZe",
         "active": true
@@ -63,6 +113,16 @@
         "id": "flash-lux",
         "name": "Flash Lux",
         "active": true
+    },
+    {
+        "id": "flash-wolves",
+        "name": "Flash Wolves",
+        "active": true
+    },
+    {
+        "id": "fnatic",
+        "name": "Fnatic",
+        "active": false
     },
     {
         "id": "fnrgfe",
@@ -82,6 +142,11 @@
     {
         "id": "gc-busan",
         "name": "GC Busan",
+        "active": true
+    },
+    {
+        "id": "hong-kong-attitude",
+        "name": "Hong Kong Attitude",
         "active": true
     },
     {
@@ -105,14 +170,39 @@
         "active": true
     },
     {
+        "id": "laser-kittenz",
+        "name": "Laser Kittenz",
+        "active": false
+    },
+    {
+        "id": "ldlc",
+        "name": "LDLC",
+        "active": false
+    },
+    {
         "id": "lgd-gaming",
         "name": "LGD Gaming",
+        "active": true
+    },
+    {
+        "id": "libalent-supreme",
+        "name": "Libalent Supreme",
         "active": true
     },
     {
         "id": "lucky-future",
         "name": "Lucky Future",
         "active": true
+    },
+    {
+        "id": "luminosity-gaming",
+        "name": "Luminosity Gaming Loyal",
+        "active": false
+    },
+    {
+        "id": "luminosity-gaming-evil",
+        "name": "Luminosity Gaming Evil",
+        "active": false
     },
     {
         "id": "lunatic-hai",
@@ -130,6 +220,16 @@
         "active": true
     },
     {
+        "id": "machi-esports",
+        "name": "Machi Esports",
+        "active": true
+    },
+    {
+        "id": "mega-thunder",
+        "name": "MEGA Thunder",
+        "active": true
+    },
+    {
         "id": "meta-athena",
         "name": "Meta Athena",
         "active": true
@@ -138,6 +238,11 @@
         "id": "meta-bellum",
         "name": "Meta Bellum",
         "active": true
+    },
+    {
+        "id": "method",
+        "name": "Method",
+        "active": false
     },
     {
         "id": "miracle-team-one",
@@ -155,9 +260,29 @@
         "active": true
     },
     {
+        "id": "movistar-riders",
+        "name": "Movistar Riders",
+        "active": false
+    },
+    {
         "id": "mvp-space",
         "name": "MVP Space",
         "active": true
+    },
+    {
+        "id": "nga",
+        "name": "NGA",
+        "active": false
+    },
+    {
+        "id": "ninjas-in-pyjamas",
+        "name": "Ninjas in Pyjamas",
+        "active": false
+    },
+    {
+        "id": "nrg",
+        "name": "NRG",
+        "active": false
     },
     {
         "id": "oh-my-god",
@@ -168,6 +293,16 @@
         "id": "renegades",
         "name": "Renegades",
         "active": true
+    },
+    {
+        "id": "reunited",
+        "name": "Reunited",
+        "active": false
+    },
+    {
+        "id": "rise-nation",
+        "name": "Rise Nation",
+        "active": false
     },
     {
         "id": "rogue",
@@ -190,6 +325,21 @@
         "active": true
     },
     {
+        "id": "san-francisco-shock",
+        "name": "San Francisco Shock",
+        "active": true
+    },
+    {
+        "id": "scylla-esports",
+        "name": "Scylla Esports",
+        "active": true
+    },
+    {
+        "id": "selfless-gaming",
+        "name": "Selfless Gaming",
+        "active": false
+    },
+    {
         "id": "shanghai-dragons",
         "name": "Shanghai Dragons",
         "active": true
@@ -200,9 +350,19 @@
         "active": true
     },
     {
+        "id": "team-liquid",
+        "name": "Team Liquid",
+        "active": false
+    },
+    {
         "id": "team-singularity",
         "name": "Team Singularity",
         "active": true
+    },
+    {
+        "id": "tempo-storm",
+        "name": "Tempo Storm",
+        "active": false
     },
     {
         "id": "vici-gaming",
@@ -210,8 +370,18 @@
         "active": true
     },
     {
+        "id": "vivis-adventure",
+        "name": "Vivi's Adventure",
+        "active": false
+    },
+    {
         "id": "x6-gaming",
         "name": "X6-Gaming",
         "active": true
+    },
+    {
+        "id": "you-guys-get-paid",
+        "name": "You Guys Get Paid?",
+        "active": false
     }
 ]
