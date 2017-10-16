@@ -10,6 +10,11 @@
         "active": true
     },
     {
+        "id": "afreeca-freecs",
+        "name": "Afreeca Freecs",
+        "active": true
+    },
+    {
         "id": "bazooka-puppiez",
         "name": "Bazooka Puppiez",
         "active": true
@@ -17,6 +22,21 @@
     {
         "id": "cloud9",
         "name": "Cloud 9",
+        "active": true
+    },
+    {
+        "id": "cloud9-kongdoo",
+        "name": "Cloud9 KongDoo",
+        "active": true
+    },
+    {
+        "id": "conbox",
+        "name": "CONBOX",
+        "active": true
+    },
+    {
+        "id": "dallas-fuel",
+        "name": "Dallas Fuel",
         "active": true
     },
     {
@@ -40,6 +60,11 @@
         "active": true
     },
     {
+        "id": "flash-lux",
+        "name": "Flash Lux",
+        "active": true
+    },
+    {
         "id": "fnrgfe",
         "name": "FNRGFE",
         "active": true
@@ -55,8 +80,23 @@
         "active": true
     },
     {
+        "id": "gc-busan",
+        "name": "GC Busan",
+        "active": true
+    },
+    {
         "id": "immortals",
         "name": "Immortals",
+        "active": true
+    },
+    {
+        "id": "kongdoo-panthera",
+        "name": "KongDoo Panthera",
+        "active": false
+    },
+    {
+        "id": "kongdoo-uncia",
+        "name": "KongDoo Uncia",
         "active": true
     },
     {
@@ -75,6 +115,31 @@
         "active": true
     },
     {
+        "id": "lunatic-hai",
+        "name": "Lunatic-Hai",
+        "active": true
+    },
+    {
+        "id": "luxurywatch-blue",
+        "name": "LuxuryWatch Blue",
+        "active": true
+    },
+    {
+        "id": "luxurywatch-red",
+        "name": "LuxuryWatch Red",
+        "active": true
+    },
+    {
+        "id": "meta-athena",
+        "name": "Meta Athena",
+        "active": true
+    },
+    {
+        "id": "meta-bellum",
+        "name": "Meta Bellum",
+        "active": true
+    },
+    {
         "id": "miracle-team-one",
         "name": "Miracle Team One",
         "active": true
@@ -87,6 +152,11 @@
     {
         "id": "misfits",
         "name": "Misfits",
+        "active": true
+    },
+    {
+        "id": "mvp-space",
+        "name": "MVP Space",
         "active": true
     },
     {
@@ -105,6 +175,26 @@
         "active": true
     },
     {
+        "id": "rox-orcas",
+        "name": "ROX Orcas",
+        "active": true
+    },
+    {
+        "id": "runaway",
+        "name": "RunAway",
+        "active": true
+    },
+    {
+        "id": "rx-foxes",
+        "name": "RX Foxes",
+        "active": true
+    },
+    {
+        "id": "shanghai-dragons",
+        "name": "Shanghai Dragons",
+        "active": true
+    },
+    {
         "id": "team-gigantti",
         "name": "Team Gigantti",
         "active": true
@@ -117,6 +207,11 @@
     {
         "id": "vici-gaming",
         "name": "Vici Gaming",
+        "active": true
+    },
+    {
+        "id": "x6-gaming",
+        "name": "X6-Gaming",
         "active": true
     }
 ]
