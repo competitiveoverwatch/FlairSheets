@@ -1,0 +1,51 @@
+{
+    "owlp-s1-gold": {
+        "row": "03",
+        "active": true,
+        "name": "OWL S1 Predictor: Winner",
+        "col": "01",
+        "sheet": "special"
+    },
+    "blizzard": {
+        "row": "01",
+        "active": true,
+        "name": "Blizzard",
+        "col": "01",
+        "sheet": "special"
+    },
+    "owlp-s1-bronze": {
+        "row": "02",
+        "active": true,
+        "name": "OWL S1 Predictor: Top 10",
+        "col": "02",
+        "sheet": "special"
+    },
+    "owlp-s1-weekly": {
+        "row": "02",
+        "active": true,
+        "name": "OWL S1 Predictor: Weekly Winner",
+        "col": "01",
+        "sheet": "special"
+    },
+    "verified": {
+        "row": "01",
+        "active": true,
+        "name": "Verified",
+        "col": "02",
+        "sheet": "special"
+    },
+    "owlp-s1-silver": {
+        "row": "02",
+        "active": true,
+        "name": "OWL S1 Predictor: Top 3",
+        "col": "03",
+        "sheet": "special"
+    },
+    "internethulk": {
+        "row": "01",
+        "active": true,
+        "name": "RIP INTERNETHULK",
+        "col": "03",
+        "sheet": "special"
+    }
+}

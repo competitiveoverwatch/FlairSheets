@@ -1,387 +1,646 @@
 [
     {
-        "id": "123",
+        "row": 0,
         "name": "123",
+        "col": 0,
+        "id": "123",
         "active": true
     },
     {
-        "id": "1246",
+        "row": 0,
         "name": "1246",
-        "active": true
+        "col": 1,
+        "id": "1246",
+        "active": false
     },
     {
-        "id": "afreeca-freecs",
+        "row": 0,
         "name": "Afreeca Freecs",
-        "active": true
+        "col": 2,
+        "id": "afreeca-freecs",
+        "active": false
     },
     {
-        "id": "ahq-e-sports-club",
+        "row": 0,
         "name": "ahq e-Sports Club",
+        "col": 3,
+        "id": "ahq-e-sports-club",
         "active": true
     },
     {
-        "id": "anox",
+        "row": 0,
         "name": "Anox",
+        "col": 4,
+        "id": "anox",
         "active": false
     },
     {
-        "id": "arc-6",
+        "row": 0,
         "name": "ARC 6",
+        "col": 5,
+        "id": "arc-6",
         "active": false
     },
     {
-        "id": "ardeont",
+        "row": 0,
         "name": "Ardeont",
+        "col": 6,
+        "id": "ardeont",
         "active": true
     },
     {
-        "id": "bazooka-puppiez",
+        "row": 0,
         "name": "Bazooka Puppiez",
+        "col": 7,
+        "id": "bazooka-puppiez",
         "active": true
     },
     {
-        "id": "blank-esports",
+        "row": 0,
         "name": "Blank Esports",
+        "col": 8,
+        "id": "blank-esports",
         "active": true
     },
     {
-        "id": "brasil-gaming-house",
+        "row": 0,
         "name": "Brasil Gaming House",
+        "col": 9,
+        "id": "brasil-gaming-house",
         "active": true
     },
     {
+        "row": 1,
+        "name": "Cloud9",
+        "col": 0,
         "id": "cloud9",
-        "name": "Cloud 9",
-        "active": true
+        "active": false
     },
     {
-        "id": "cloud9-kongdoo",
+        "row": 1,
         "name": "Cloud9 KongDoo",
-        "active": true
+        "col": 1,
+        "id": "cloud9-kongdoo",
+        "active": false
     },
     {
-        "id": "complexity-gaming",
+        "row": 1,
         "name": "CompLexity Gaming",
+        "col": 2,
+        "id": "complexity-gaming",
         "active": false
     },
     {
-        "id": "conbox",
+        "row": 1,
         "name": "CONBOX",
-        "active": true
+        "col": 3,
+        "id": "conbox",
+        "active": false
     },
     {
-        "id": "counter-logic-gaming",
+        "row": 1,
         "name": "Counter Logic Gaming",
+        "col": 4,
+        "id": "counter-logic-gaming",
         "active": false
     },
     {
-        "id": "dallas-fuel",
+        "row": 1,
         "name": "Dallas Fuel",
+        "col": 5,
+        "id": "dallas-fuel",
         "active": true
     },
     {
-        "id": "dignitas",
+        "row": 1,
         "name": "Dignitas",
+        "col": 6,
+        "id": "dignitas",
         "active": false
     },
     {
-        "id": "envision",
+        "row": 1,
         "name": "EnVision",
+        "col": 7,
+        "id": "envision",
         "active": true
     },
     {
-        "id": "envyus",
+        "row": 1,
         "name": "EnVyUs",
-        "active": true
+        "col": 8,
+        "id": "envyus",
+        "active": false
     },
     {
-        "id": "eunited",
+        "row": 1,
         "name": "eUnited",
-        "active": true
+        "col": 9,
+        "id": "eunited",
+        "active": false
     },
     {
-        "id": "evil-geniuses",
+        "row": 2,
         "name": "Evil Geniuses",
+        "col": 0,
+        "id": "evil-geniuses",
         "active": false
     },
     {
-        "id": "faze",
+        "row": 2,
         "name": "FaZe",
+        "col": 1,
+        "id": "faze",
         "active": true
     },
     {
-        "id": "flash-lux",
+        "row": 2,
         "name": "Flash Lux",
-        "active": true
+        "col": 2,
+        "id": "flash-lux",
+        "active": false
     },
     {
-        "id": "flash-wolves",
+        "row": 2,
         "name": "Flash Wolves",
+        "col": 3,
+        "id": "flash-wolves",
         "active": true
     },
     {
-        "id": "fnatic",
+        "row": 2,
         "name": "Fnatic",
+        "col": 4,
+        "id": "fnatic",
         "active": false
     },
     {
-        "id": "fnrgfe",
+        "row": 2,
         "name": "FNRGFE",
-        "active": true
+        "col": 5,
+        "id": "fnrgfe",
+        "active": false
     },
     {
-        "id": "ftd-club",
+        "row": 2,
         "name": "FTD Club",
-        "active": true
+        "col": 6,
+        "id": "ftd-club",
+        "active": false
     },
     {
-        "id": "gamersorigin",
+        "row": 2,
         "name": "GamersOrigin",
-        "active": true
+        "col": 7,
+        "id": "gamersorigin",
+        "active": false
     },
     {
-        "id": "gc-busan",
+        "row": 2,
         "name": "GC Busan",
+        "col": 8,
+        "id": "gc-busan",
         "active": true
     },
     {
-        "id": "hong-kong-attitude",
+        "row": 2,
         "name": "Hong Kong Attitude",
+        "col": 9,
+        "id": "hong-kong-attitude",
         "active": true
     },
     {
-        "id": "immortals",
+        "row": 3,
         "name": "Immortals",
-        "active": true
+        "col": 0,
+        "id": "immortals",
+        "active": false
     },
     {
-        "id": "kongdoo-panthera",
+        "row": 3,
         "name": "KongDoo Panthera",
-        "active": false
+        "col": 1,
+        "id": "kongdoo-panthera",
+        "active": true
     },
     {
-        "id": "kongdoo-uncia",
+        "row": 3,
         "name": "KongDoo Uncia",
-        "active": true
+        "col": 2,
+        "id": "kongdoo-uncia",
+        "active": false
     },
     {
-        "id": "kungarna",
+        "row": 3,
         "name": "Kungarna",
+        "col": 3,
+        "id": "kungarna",
         "active": true
     },
     {
-        "id": "laser-kittenz",
+        "row": 3,
         "name": "Laser Kittenz",
+        "col": 4,
+        "id": "laser-kittenz",
         "active": false
     },
     {
-        "id": "ldlc",
+        "row": 3,
         "name": "LDLC",
+        "col": 5,
+        "id": "ldlc",
         "active": false
     },
     {
-        "id": "lgd-gaming",
+        "row": 3,
         "name": "LGD Gaming",
+        "col": 6,
+        "id": "lgd-gaming",
         "active": true
     },
     {
-        "id": "libalent-supreme",
+        "row": 3,
         "name": "Libalent Supreme",
-        "active": true
+        "col": 7,
+        "id": "libalent-supreme",
+        "active": false
     },
     {
-        "id": "lucky-future",
+        "row": 3,
         "name": "Lucky Future",
+        "col": 8,
+        "id": "lucky-future",
         "active": true
     },
     {
-        "id": "luminosity-gaming",
+        "row": 3,
         "name": "Luminosity Gaming Loyal",
+        "col": 9,
+        "id": "luminosity-gaming",
         "active": false
     },
     {
-        "id": "luminosity-gaming-evil",
+        "row": 4,
         "name": "Luminosity Gaming Evil",
+        "col": 0,
+        "id": "luminosity-gaming-evil",
         "active": false
     },
     {
-        "id": "lunatic-hai",
+        "row": 4,
         "name": "Lunatic-Hai",
+        "col": 1,
+        "id": "lunatic-hai",
         "active": true
     },
     {
-        "id": "luxurywatch-blue",
+        "row": 4,
         "name": "LuxuryWatch Blue",
-        "active": true
+        "col": 2,
+        "id": "luxurywatch-blue",
+        "active": false
     },
     {
-        "id": "luxurywatch-red",
+        "row": 4,
         "name": "LuxuryWatch Red",
-        "active": true
+        "col": 3,
+        "id": "luxurywatch-red",
+        "active": false
     },
     {
-        "id": "machi-esports",
+        "row": 4,
         "name": "Machi Esports",
+        "col": 4,
+        "id": "machi-esports",
         "active": true
     },
     {
-        "id": "mega-thunder",
+        "row": 4,
         "name": "MEGA Thunder",
+        "col": 5,
+        "id": "mega-thunder",
         "active": true
     },
     {
-        "id": "meta-athena",
+        "row": 4,
         "name": "Meta Athena",
+        "col": 6,
+        "id": "meta-athena",
         "active": true
     },
     {
-        "id": "meta-bellum",
+        "row": 4,
         "name": "Meta Bellum",
+        "col": 7,
+        "id": "meta-bellum",
         "active": true
     },
     {
-        "id": "method",
+        "row": 4,
         "name": "Method",
+        "col": 8,
+        "id": "method",
         "active": false
     },
     {
-        "id": "miracle-team-one",
+        "row": 4,
         "name": "Miracle Team One",
+        "col": 9,
+        "id": "miracle-team-one",
         "active": true
     },
     {
-        "id": "miraculous-youngster",
+        "row": 5,
         "name": "Miraculous Youngster",
-        "active": true
+        "col": 0,
+        "id": "miraculous-youngster",
+        "active": false
     },
     {
-        "id": "misfits",
+        "row": 5,
         "name": "Misfits",
-        "active": true
+        "col": 1,
+        "id": "misfits",
+        "active": false
     },
     {
-        "id": "movistar-riders",
+        "row": 5,
         "name": "Movistar Riders",
+        "col": 2,
+        "id": "movistar-riders",
         "active": false
     },
     {
-        "id": "mvp-space",
+        "row": 5,
         "name": "MVP Space",
+        "col": 3,
+        "id": "mvp-space",
         "active": true
     },
     {
-        "id": "nga",
+        "row": 5,
         "name": "NGA",
+        "col": 4,
+        "id": "nga",
         "active": false
     },
     {
-        "id": "ninjas-in-pyjamas",
+        "row": 5,
         "name": "Ninjas in Pyjamas",
+        "col": 5,
+        "id": "ninjas-in-pyjamas",
         "active": false
     },
     {
-        "id": "nrg",
+        "row": 5,
         "name": "NRG",
+        "col": 6,
+        "id": "nrg",
         "active": false
     },
     {
-        "id": "oh-my-god",
+        "row": 5,
         "name": "Oh My God",
-        "active": true
+        "col": 7,
+        "id": "oh-my-god",
+        "active": false
     },
     {
-        "id": "renegades",
+        "row": 5,
         "name": "Renegades",
-        "active": true
+        "col": 8,
+        "id": "renegades",
+        "active": false
     },
     {
-        "id": "reunited",
+        "row": 5,
         "name": "Reunited",
+        "col": 9,
+        "id": "reunited",
         "active": false
     },
     {
-        "id": "rise-nation",
+        "row": 6,
         "name": "Rise Nation",
+        "col": 0,
+        "id": "rise-nation",
         "active": false
     },
     {
-        "id": "rogue",
+        "row": 6,
         "name": "Rogue",
-        "active": true
+        "col": 1,
+        "id": "rogue",
+        "active": false
     },
     {
-        "id": "rox-orcas",
+        "row": 6,
         "name": "ROX Orcas",
-        "active": true
+        "col": 2,
+        "id": "rox-orcas",
+        "active": false
     },
     {
-        "id": "runaway",
+        "row": 6,
         "name": "RunAway",
+        "col": 3,
+        "id": "runaway",
         "active": true
     },
     {
+        "row": 6,
+        "name": "Foxes",
+        "col": 4,
         "id": "rx-foxes",
-        "name": "RX Foxes",
         "active": true
     },
     {
-        "id": "san-francisco-shock",
+        "row": 6,
         "name": "San Francisco Shock",
+        "col": 5,
+        "id": "san-francisco-shock",
         "active": true
     },
     {
-        "id": "scylla-esports",
+        "row": 6,
         "name": "Scylla Esports",
+        "col": 6,
+        "id": "scylla-esports",
         "active": true
     },
     {
-        "id": "selfless-gaming",
+        "row": 6,
         "name": "Selfless Gaming",
+        "col": 7,
+        "id": "selfless-gaming",
         "active": false
     },
     {
-        "id": "shanghai-dragons",
+        "row": 6,
         "name": "Shanghai Dragons",
+        "col": 8,
+        "id": "shanghai-dragons",
         "active": true
     },
     {
-        "id": "team-gigantti",
+        "row": 6,
         "name": "Team Gigantti",
+        "col": 9,
+        "id": "team-gigantti",
         "active": true
     },
     {
-        "id": "team-liquid",
+        "row": 7,
         "name": "Team Liquid",
+        "col": 0,
+        "id": "team-liquid",
         "active": false
     },
     {
-        "id": "team-singularity",
+        "row": 7,
         "name": "Team Singularity",
-        "active": true
+        "col": 1,
+        "id": "team-singularity",
+        "active": false
     },
     {
-        "id": "tempo-storm",
+        "row": 7,
         "name": "Tempo Storm",
+        "col": 2,
+        "id": "tempo-storm",
         "active": false
     },
     {
-        "id": "vici-gaming",
+        "row": 7,
         "name": "Vici Gaming",
+        "col": 3,
+        "id": "vici-gaming",
         "active": true
     },
     {
-        "id": "vivis-adventure",
+        "row": 7,
         "name": "Vivi's Adventure",
+        "col": 4,
+        "id": "vivis-adventure",
         "active": false
     },
     {
-        "id": "x6-gaming",
+        "row": 7,
         "name": "X6-Gaming",
+        "col": 5,
+        "id": "x6-gaming",
         "active": true
     },
     {
-        "id": "you-guys-get-paid",
+        "row": 7,
         "name": "You Guys Get Paid?",
+        "col": 6,
+        "id": "you-guys-get-paid",
+        "active": false
+    },
+    {
+        "row": 7,
+        "name": "Los Angeles Valiant",
+        "col": 7,
+        "id": "los-angeles-valiant",
+        "active": true
+    },
+    {
+        "row": 7,
+        "name": "Boston Uprising",
+        "col": 8,
+        "id": "boston-uprising",
+        "active": true
+    },
+    {
+        "row": 7,
+        "name": "Seoul Dynasty",
+        "col": 9,
+        "id": "seoul-dynasty",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "New York Excelsior",
+        "col": 0,
+        "id": "new-york-excelsior",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "Houston Outlaws",
+        "col": 1,
+        "id": "houston-outlaws",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "London Spitfire",
+        "col": 2,
+        "id": "london-spitfire",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "Philadelphia Fusion",
+        "col": 3,
+        "id": "philadelphia-fusion",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "Florida Mayhem",
+        "col": 4,
+        "id": "florida-mayhem",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "Los Angeles Gladiators",
+        "col": 5,
+        "id": "los-angeles-gladiators",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "LinGan e-Sports",
+        "col": 6,
+        "id": "lingan-e-sports",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "LaoYinBi",
+        "col": 7,
+        "id": "laoyinbi",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "Seven",
+        "col": 8,
+        "id": "seven",
+        "active": true
+    },
+    {
+        "row": 8,
+        "name": "Team CC",
+        "col": 9,
+        "id": "team-cc",
+        "active": true
+    },
+    {
+        "row": 9,
+        "name": "Element Mystic",
+        "col": 0,
+        "id": "element-mystic",
+        "active": true
+    },
+    {
+        "row": 9,
+        "name": "YIKES!",
+        "col": 1,
+        "id": "yikes",
         "active": false
     }
 ]

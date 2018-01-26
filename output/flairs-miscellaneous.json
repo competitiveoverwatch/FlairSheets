@@ -1,0 +1,212 @@
+{
+    "zenyatta": {
+        "sheet": "miscellaneous",
+        "row": "01",
+        "name": "Zenyatta",
+        "active": true,
+        "col": "06"
+    },
+    "symmetra": {
+        "sheet": "miscellaneous",
+        "row": "04",
+        "name": "Symmetra",
+        "active": true,
+        "col": "05"
+    },
+    "tracer": {
+        "sheet": "miscellaneous",
+        "row": "05",
+        "name": "Tracer",
+        "active": true,
+        "col": "02"
+    },
+    "reaper": {
+        "sheet": "miscellaneous",
+        "row": "04",
+        "name": "Reaper",
+        "active": true,
+        "col": "03"
+    },
+    "orisa": {
+        "sheet": "miscellaneous",
+        "row": "04",
+        "name": "Orisa",
+        "active": true,
+        "col": "01"
+    },
+    "doomfist": {
+        "sheet": "miscellaneous",
+        "row": "02",
+        "name": "Doomfist",
+        "active": true,
+        "col": "01"
+    },
+    "mercy": {
+        "sheet": "miscellaneous",
+        "row": "02",
+        "name": "Mercy",
+        "active": true,
+        "col": "04"
+    },
+    "sombra": {
+        "sheet": "miscellaneous",
+        "row": "03",
+        "name": "Sombra",
+        "active": true,
+        "col": "05"
+    },
+    "owl-logo": {
+        "sheet": "miscellaneous",
+        "row": "05",
+        "name": "Overwatch League",
+        "active": true,
+        "col": "06"
+    },
+    "torbjorn": {
+        "sheet": "miscellaneous",
+        "row": "05",
+        "name": "Torbj\u00f6rn",
+        "active": true,
+        "col": "01"
+    },
+    "ow-open-division-logo": {
+        "sheet": "miscellaneous",
+        "row": "03",
+        "name": "Overwatch Open Division",
+        "active": true,
+        "col": "06"
+    },
+    "ow-contenders-logo": {
+        "sheet": "miscellaneous",
+        "row": "02",
+        "name": "Overwatch Contenders",
+        "active": true,
+        "col": "06"
+    },
+    "bastion": {
+        "sheet": "miscellaneous",
+        "row": "01",
+        "name": "Bastion",
+        "active": true,
+        "col": "02"
+    },
+    "widowmaker": {
+        "sheet": "miscellaneous",
+        "row": "05",
+        "name": "Widowmaker",
+        "active": true,
+        "col": "03"
+    },
+    "ow-world-cup-2017-logo": {
+        "sheet": "miscellaneous",
+        "row": "04",
+        "name": "Overwatch World Cup 2017",
+        "active": true,
+        "col": "06"
+    },
+    "roadhog": {
+        "sheet": "miscellaneous",
+        "row": "01",
+        "name": "Roadhog",
+        "active": true,
+        "col": "05"
+    },
+    "dva": {
+        "sheet": "miscellaneous",
+        "row": "02",
+        "name": "D.va",
+        "active": true,
+        "col": "02"
+    },
+    "junkrat": {
+        "sheet": "miscellaneous",
+        "row": "03",
+        "name": "Junkrat",
+        "active": true,
+        "col": "01"
+    },
+    "hanzo": {
+        "sheet": "miscellaneous",
+        "row": "02",
+        "name": "Hanzo",
+        "active": true,
+        "col": "03"
+    },
+    "mei": {
+        "sheet": "miscellaneous",
+        "row": "01",
+        "name": "Mei",
+        "active": true,
+        "col": "04"
+    },
+    "mccree": {
+        "sheet": "miscellaneous",
+        "row": "03",
+        "name": "McCree",
+        "active": true,
+        "col": "03"
+    },
+    "zarya": {
+        "sheet": "miscellaneous",
+        "row": "05",
+        "name": "Zarya",
+        "active": true,
+        "col": "05"
+    },
+    "soldier-76": {
+        "sheet": "miscellaneous",
+        "row": "02",
+        "name": "Soldier: 76",
+        "active": true,
+        "col": "05"
+    },
+    "lucio": {
+        "sheet": "miscellaneous",
+        "row": "03",
+        "name": "Lucio",
+        "active": true,
+        "col": "02"
+    },
+    "moira": {
+        "sheet": "miscellaneous",
+        "row": "03",
+        "name": "Moira",
+        "active": true,
+        "col": "04"
+    },
+    "ana": {
+        "sheet": "miscellaneous",
+        "row": "01",
+        "name": "Ana",
+        "active": true,
+        "col": "01"
+    },
+    "genji": {
+        "sheet": "miscellaneous",
+        "row": "01",
+        "name": "Genji",
+        "active": true,
+        "col": "03"
+    },
+    "reinhardt": {
+        "sheet": "miscellaneous",
+        "row": "04",
+        "name": "Reinhardt",
+        "active": true,
+        "col": "04"
+    },
+    "winston": {
+        "sheet": "miscellaneous",
+        "row": "05",
+        "name": "Winston",
+        "active": true,
+        "col": "04"
+    },
+    "pharah": {
+        "sheet": "miscellaneous",
+        "row": "04",
+        "name": "Pharah",
+        "active": true,
+        "col": "02"
+    }
+}

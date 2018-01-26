@@ -1,0 +1,65 @@
+[
+    {
+        "row": 0,
+        "col": 0,
+        "id": "gosugamers",
+        "active": true,
+        "name": "GosuGamers"
+    },
+    {
+        "row": 0,
+        "col": 1,
+        "id": "link",
+        "active": true,
+        "name": "Link"
+    },
+    {
+        "row": 0,
+        "col": 2,
+        "id": "overgg",
+        "name": "Over.gg",
+        "active": true
+    },
+    {
+        "row": 1,
+        "col": 0,
+        "id": "liquipedia",
+        "active": true,
+        "name": "Liquipedia"
+    },
+    {
+        "row": 1,
+        "col": 1,
+        "id": "mlg",
+        "active": true,
+        "name": "MLG"
+    },
+    {
+        "col": 2,
+        "row": 1,
+        "id": "overwatchleague",
+        "active": true,
+        "name": "Overwatch League"
+    },
+    {
+        "col": 0,
+        "row": 2,
+        "id": "twitch",
+        "active": true,
+        "name": "Twitch"
+    },
+    {
+        "col": 1,
+        "row": 2,
+        "id": "winstonslab",
+        "active": true,
+        "name": "Winston's Lab"
+    },
+    {
+        "col": 2,
+        "row": 2,
+        "id": "youtube",
+        "active": true,
+        "name": "YouTube"
+    }
+]

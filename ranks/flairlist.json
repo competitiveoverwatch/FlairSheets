@@ -1,0 +1,37 @@
+[
+    {
+        "id": "bronze",
+        "name": "Bronze",
+        "active": true
+    },
+    {
+        "id": "diamond",
+        "name": "Diamond",
+        "active": true
+    },
+    {
+        "id": "gold",
+        "name": "Gold",
+        "active": true
+    },
+    {
+        "id": "grandmaster",
+        "name": "Grandmaster",
+        "active": true
+    },
+    {
+        "id": "master",
+        "name": "Master",
+        "active": true
+    },
+    {
+        "id": "platinum",
+        "name": "Platinum",
+        "active": true
+    },
+    {
+        "id": "silver",
+        "name": "Silver",
+        "active": true
+    }
+]

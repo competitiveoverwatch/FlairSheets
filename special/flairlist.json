@@ -1,0 +1,51 @@
+[
+    {
+        "row": 0,
+        "active": true,
+        "id": "blizzard",
+        "col": 0,
+        "name": "Blizzard"
+    },
+    {
+        "row": 0,
+        "active": true,
+        "id": "verified",
+        "col": 1,
+        "name": "Verified"
+    },
+    {
+        "row": 0,
+        "active": true,
+        "id": "internethulk",
+        "col": 2,
+        "name": "RIP INTERNETHULK"
+    },
+    {
+        "row": 1,
+        "active": true,
+        "id": "owlp-s1-weekly",
+        "col": 0,
+        "name": "OWL S1 Predictor: Weekly Winner"
+    },
+    {
+        "row": 1,
+        "active": true,
+        "id": "owlp-s1-bronze",
+        "col": 1,
+        "name": "OWL S1 Predictor: Top 10"
+    },
+    {
+        "row": 1,
+        "active": true,
+        "id": "owlp-s1-silver",
+        "col": 2,
+        "name": "OWL S1 Predictor: Top 3"
+    },
+    {
+        "row": 2,
+        "active": true,
+        "id": "owlp-s1-gold",
+        "col": 0,
+        "name": "OWL S1 Predictor: Winner"
+    }
+]

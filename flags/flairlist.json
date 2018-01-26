@@ -1,0 +1,162 @@
+[
+    {
+        "id": "flag-ar",
+        "name": "Argentina",
+        "active": false
+    },
+    {
+        "id": "flag-at",
+        "name": "Austria",
+        "active": false
+    },
+    {
+        "id": "flag-au",
+        "name": "Australia",
+        "active": false
+    },
+    {
+        "id": "flag-be",
+        "name": "Belgium",
+        "active": false
+    },
+    {
+        "id": "flag-br",
+        "name": "Brazil",
+        "active": false
+    },
+    {
+        "id": "flag-ca",
+        "name": "Canada",
+        "active": false
+    },
+    {
+        "id": "flag-cn",
+        "name": "China",
+        "active": false
+    },
+    {
+        "id": "flag-de",
+        "name": "Germany",
+        "active": false
+    },
+    {
+        "id": "flag-dk",
+        "name": "Denmark",
+        "active": false
+    },
+    {
+        "id": "flag-es",
+        "name": "Spain",
+        "active": false
+    },
+    {
+        "id": "flag-fi",
+        "name": "Finland",
+        "active": false
+    },
+    {
+        "id": "flag-fr",
+        "name": "France",
+        "active": false
+    },
+    {
+        "id": "flag-gb",
+        "name": "United Kingdom",
+        "active": false
+    },
+    {
+        "id": "flag-hk",
+        "name": "Hong Kong",
+        "active": false
+    },
+    {
+        "id": "flag-il",
+        "name": "Israel",
+        "active": false
+    },
+    {
+        "id": "flag-it",
+        "name": "Italy",
+        "active": false
+    },
+    {
+        "id": "flag-jp",
+        "name": "Japan",
+        "active": false
+    },
+    {
+        "id": "flag-kr",
+        "name": "South Korea",
+        "active": true
+    },
+    {
+        "id": "flag-nl",
+        "name": "Netherlands",
+        "active": false
+    },
+    {
+        "id": "flag-no",
+        "name": "Norway",
+        "active": false
+    },
+    {
+        "id": "flag-nz",
+        "name": "New Zealand",
+        "active": false
+    },
+    {
+        "id": "flag-pl",
+        "name": "Poland",
+        "active": false
+    },
+    {
+        "id": "flag-pt",
+        "name": "Portugal",
+        "active": false
+    },
+    {
+        "id": "flag-ro",
+        "name": "Romania",
+        "active": false
+    },
+    {
+        "id": "flag-ru",
+        "name": "Russia",
+        "active": false
+    },
+    {
+        "id": "flag-se",
+        "name": "Sweden",
+        "active": false
+    },
+    {
+        "id": "flag-sg",
+        "name": "Singapore",
+        "active": false
+    },
+    {
+        "id": "flag-th",
+        "name": "Thailand",
+        "active": false
+    },
+    {
+        "id": "flag-tr",
+        "name": "Turkey",
+        "active": false
+    },
+    {
+        "id": "flag-tw",
+        "name": "Taiwan",
+        "active": false
+    },
+    {
+        "id": "flag-us",
+        "name": "United States",
+        "active": false
+    },
+    {
+        "id": "flag-vn",
+        "name": "Vietname",
+        "active": false
+    }
+]
