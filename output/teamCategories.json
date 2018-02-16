@@ -1,16 +1,21 @@
 {
     "categories": [
         {
+            "title": "Team Flairs",
             "items": [
-                "123",
                 "ahq-e-sports-club",
+                "angry-titans",
                 "ardeont",
                 "bazooka-puppiez",
                 "blank-esports",
                 "boston-uprising",
                 "brasil-gaming-house",
+                "cis-hope",
                 "dallas-fuel",
+                "dose",
+                "eagle-gaming",
                 "element-mystic",
+                "ence-esports",
                 "envision",
                 "faze",
                 "flash-wolves",
@@ -18,6 +23,7 @@
                 "gc-busan",
                 "hong-kong-attitude",
                 "houston-outlaws",
+                "jigsaw",
                 "kongdoo-panthera",
                 "kungarna",
                 "laoyinbi",
@@ -27,15 +33,19 @@
                 "los-angeles-gladiators",
                 "los-angeles-valiant",
                 "lucky-future",
+                "lucky-future-zenith",
                 "lunatic-hai",
                 "machi-esports",
                 "mega-thunder",
                 "meta-athena",
                 "meta-bellum",
                 "miracle-team-one",
+                "moss-seven-club",
                 "mvp-space",
                 "new-york-excelsior",
+                "orgless-hungry",
                 "philadelphia-fusion",
+                "piece-of-cake",
                 "runaway",
                 "rx-foxes",
                 "san-francisco-shock",
@@ -43,15 +53,22 @@
                 "seoul-dynasty",
                 "seven",
                 "shanghai-dragons",
+                "skadis-gift",
+                "squid12324",
+                "super-number-1",
+                "t1w",
                 "team-cc",
                 "team-gigantti",
+                "team-laffey",
+                "those-guys",
                 "vici-gaming",
                 "x6-gaming"
-            ],
-            "title": "Team Flairs"
+            ]
         },
         {
+            "title": "Legacy Team Flairs",
             "items": [
+                "123",
                 "1246",
                 "afreeca-freecs",
                 "anox",
@@ -99,8 +116,7 @@
                 "vivis-adventure",
                 "yikes",
                 "you-guys-get-paid"
-            ],
-            "title": "Legacy Team Flairs"
+            ]
         }
     ]
 }

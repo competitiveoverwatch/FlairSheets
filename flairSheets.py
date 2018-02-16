@@ -5,13 +5,15 @@ tinify.key = 'I6ImYtMy1dzeC6mOpo2kJMNCw4TvuL33'
   
   
 def resize(matrix, size):
-    current_size = len(matrix)
+    current_size = len(matrix) - 1
     additional_size = size - current_size
+    print(str(additional_size))
     # resize existing rows
     for row in matrix:
         row.extend([None] * additional_size)
     # add aditional rows
-    matrix.extend([[None] * size] * additional_size)
+    matrix.extend([[None] * (size + 1)] * additional_size)
+    return matrix
 
 def makeSpritesheet(sheet, size=(22,22), suffix=None, writejson=True, optimize=False):
     # get flairlist
@@ -33,10 +35,16 @@ def makeSpritesheet(sheet, size=(22,22), suffix=None, writejson=True, optimize=F
                 new_size = flair['col']
             # resize if necessary
             if new_size > 0:
-                resize(flair_matrix, new_size + 1)
+                print(str(new_size))
+                flair_matrix = resize(flair_matrix, new_size)
                 spreadsheet_size = new_size
-            
+                
             # add the flair
+            print(str(flair['row']))
+            print(str(flair['col']))
+            print(str(flair_matrix[flair['row']][flair['col']]))
+            print("")
+            
             flair_matrix[flair['row']][flair['col']] = flair
             
         else:
