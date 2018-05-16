@@ -1,65 +1,66 @@
 {
-    "winstonslab": {
-        "row": "03",
+    "overwatchleague": {
         "sheet": "logos",
-        "col": "02",
         "active": true,
+        "col": "03",
+        "name": "Overwatch League",
+        "row": "02"
+    },
+    "youtube": {
+        "sheet": "logos",
+        "active": true,
+        "col": "03",
+        "name": "YouTube",
+        "row": "03"
+    },
+    "twitch": {
+        "sheet": "logos",
+        "active": true,
+        "col": "01",
+        "name": "Twitch",
+        "row": "03"
+    },
+    "liquipedia": {
+        "sheet": "logos",
+        "active": true,
+        "col": "01",
+        "name": "Liquipedia",
+        "row": "02"
+    },
+    "overgg": {
+        "sheet": "logos",
+        "active": true,
+        "col": "03",
+        "name": "over.gg",
+        "row": "01"
+    },
+    "winstonslab": {
+        "id": "winstonslab",
+        "active": true,
+        "sheet": "logos",
+        "row": "03",
+        "col": "02",
         "name": "Winston's Lab"
     },
     "link": {
-        "row": "01",
         "sheet": "logos",
+        "active": true,
         "col": "02",
-        "active": true,
-        "name": "Link"
-    },
-    "overgg": {
-        "row": "01",
-        "sheet": "logos",
-        "col": "03",
-        "active": true,
-        "name": "Over.gg"
-    },
-    "mlg": {
-        "row": "02",
-        "sheet": "logos",
-        "col": "02",
-        "active": true,
-        "name": "MLG"
-    },
-    "liquipedia": {
-        "row": "02",
-        "sheet": "logos",
-        "col": "01",
-        "active": true,
-        "name": "Liquipedia"
+        "name": "Link",
+        "row": "01"
     },
     "gosugamers": {
-        "row": "01",
         "sheet": "logos",
+        "active": true,
         "col": "01",
-        "active": true,
-        "name": "GosuGamers"
+        "name": "GosuGamers",
+        "row": "01"
     },
-    "overwatchleague": {
-        "row": "02",
+    "mlg": {
         "sheet": "logos",
-        "col": "03",
         "active": true,
-        "name": "Overwatch League"
-    },
-    "twitch": {
-        "row": "03",
-        "sheet": "logos",
-        "col": "01",
-        "active": true,
-        "name": "Twitch"
-    },
-    "youtube": {
-        "row": "03",
-        "sheet": "logos",
-        "col": "03",
-        "active": true,
-        "name": "YouTube"
+        "col": "02",
+        "name": "MLG",
+        "row": "02"
     }
 }

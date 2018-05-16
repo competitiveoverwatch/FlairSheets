@@ -1,758 +1,1115 @@
-[
-    {
-        "row": 0,
-        "active": false,
-        "col": 0,
-        "id": "123",
-        "name": "123"
-    },
-    {
-        "row": 0,
-        "active": false,
-        "col": 1,
-        "id": "1246",
-        "name": "1246"
-    },
-    {
-        "row": 0,
-        "active": false,
-        "col": 2,
-        "id": "afreeca-freecs",
-        "name": "Afreeca Freecs"
-    },
-    {
-        "row": 0,
+{
+    "meta-athena": {
+        "sheet": "teams",
+        "col": "07",
         "active": true,
-        "col": 3,
-        "id": "ahq-e-sports-club",
-        "name": "ahq e-Sports Club"
-    },
-    {
-        "row": 0,
-        "active": false,
-        "col": 4,
-        "id": "anox",
-        "name": "Anox"
-    },
-    {
-        "row": 0,
-        "active": false,
-        "col": 5,
-        "id": "arc-6",
-        "name": "ARC 6"
-    },
-    {
-        "row": 0,
-        "active": true,
-        "col": 6,
-        "id": "ardeont",
-        "name": "Ardeont"
-    },
-    {
-        "row": 0,
-        "active": true,
-        "col": 7,
-        "id": "bazooka-puppiez",
-        "name": "Bazooka Puppiez"
-    },
-    {
-        "row": 0,
-        "active": true,
-        "col": 8,
-        "id": "blank-esports",
-        "name": "Blank Esports"
-    },
-    {
-        "row": 0,
-        "active": true,
-        "col": 9,
-        "id": "brasil-gaming-house",
-        "name": "Brasil Gaming House"
-    },
-    {
-        "row": 0,
-        "active": true,
-        "col": 10,
-        "id": "orgless-hungry",
-        "name": "Orgless & Hungry"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 0,
-        "id": "cloud9",
-        "name": "Cloud9"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 1,
-        "id": "cloud9-kongdoo",
-        "name": "Cloud9 KongDoo"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 2,
-        "id": "complexity-gaming",
-        "name": "CompLexity Gaming"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 3,
-        "id": "conbox",
-        "name": "CONBOX"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 4,
-        "id": "counter-logic-gaming",
-        "name": "Counter Logic Gaming"
-    },
-    {
-        "row": 1,
-        "active": true,
-        "col": 5,
-        "id": "dallas-fuel",
-        "name": "Dallas Fuel"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 6,
-        "id": "dignitas",
-        "name": "Dignitas"
-    },
-    {
-        "row": 1,
-        "active": true,
-        "col": 7,
-        "id": "envision",
-        "name": "EnVision"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 8,
-        "id": "envyus",
-        "name": "EnVyUs"
-    },
-    {
-        "row": 1,
-        "active": false,
-        "col": 9,
-        "id": "eunited",
-        "name": "eUnited"
-    },
-    {
-        "row": 1,
-        "active": true,
-        "col": 10,
-        "id": "piece-of-cake",
-        "name": "Piece of Cake"
-    },
-    {
-        "row": 2,
-        "active": false,
-        "col": 0,
-        "id": "evil-geniuses",
-        "name": "Evil Geniuses"
-    },
-    {
-        "row": 2,
-        "active": true,
-        "col": 1,
-        "id": "faze",
-        "name": "FaZe"
-    },
-    {
-        "row": 2,
-        "active": false,
-        "col": 2,
-        "id": "flash-lux",
-        "name": "Flash Lux"
-    },
-    {
-        "row": 2,
-        "active": true,
-        "col": 3,
-        "id": "flash-wolves",
-        "name": "Flash Wolves"
-    },
-    {
-        "row": 2,
-        "active": false,
-        "col": 4,
-        "id": "fnatic",
-        "name": "Fnatic"
-    },
-    {
-        "row": 2,
-        "active": false,
-        "col": 5,
-        "id": "fnrgfe",
-        "name": "FNRGFE"
-    },
-    {
-        "row": 2,
-        "active": false,
-        "col": 6,
-        "id": "ftd-club",
-        "name": "FTD Club"
-    },
-    {
-        "row": 2,
-        "active": false,
-        "col": 7,
-        "id": "gamersorigin",
-        "name": "GamersOrigin"
-    },
-    {
-        "row": 2,
-        "active": true,
-        "col": 8,
-        "id": "gc-busan",
-        "name": "GC Busan"
-    },
-    {
-        "row": 2,
-        "active": true,
-        "col": 9,
-        "id": "hong-kong-attitude",
-        "name": "Hong Kong Attitude"
-    },
-    {
-        "row": 2,
-        "active": true,
-        "col": 10,
-        "id": "skadis-gift",
-        "name": "Skadi's Gift"
-    },
-    {
-        "row": 3,
-        "active": false,
-        "col": 0,
-        "id": "immortals",
-        "name": "Immortals"
-    },
-    {
-        "row": 3,
-        "active": true,
-        "col": 1,
-        "id": "kongdoo-panthera",
-        "name": "KongDoo Panthera"
-    },
-    {
-        "row": 3,
-        "active": false,
-        "col": 2,
-        "id": "kongdoo-uncia",
-        "name": "KongDoo Uncia"
-    },
-    {
-        "row": 3,
-        "active": true,
-        "col": 3,
-        "id": "kungarna",
-        "name": "Kungarna"
-    },
-    {
-        "row": 3,
-        "active": false,
-        "col": 4,
-        "id": "laser-kittenz",
-        "name": "Laser Kittenz"
-    },
-    {
-        "row": 3,
-        "active": false,
-        "col": 5,
-        "id": "ldlc",
-        "name": "LDLC"
-    },
-    {
-        "row": 3,
-        "active": true,
-        "col": 6,
-        "id": "lgd-gaming",
-        "name": "LGD Gaming"
-    },
-    {
-        "row": 3,
-        "active": false,
-        "col": 7,
-        "id": "libalent-supreme",
-        "name": "Libalent Supreme"
-    },
-    {
-        "row": 3,
-        "active": true,
-        "col": 8,
-        "id": "lucky-future",
-        "name": "Lucky Future"
-    },
-    {
-        "row": 3,
-        "active": false,
-        "col": 9,
-        "id": "luminosity-gaming",
-        "name": "Luminosity Gaming Loyal"
-    },
-    {
-        "row": 3,
-        "active": true,
-        "col": 10,
-        "id": "squid12324",
-        "name": "Squid12324"
-    },
-    {
-        "row": 4,
-        "active": false,
-        "col": 0,
-        "id": "luminosity-gaming-evil",
-        "name": "Luminosity Gaming Evil"
-    },
-    {
-        "row": 4,
-        "active": true,
-        "col": 1,
-        "id": "lunatic-hai",
-        "name": "Lunatic-Hai"
-    },
-    {
-        "row": 4,
-        "active": false,
-        "col": 2,
-        "id": "luxurywatch-blue",
-        "name": "LuxuryWatch Blue"
-    },
-    {
-        "row": 4,
-        "active": false,
-        "col": 3,
-        "id": "luxurywatch-red",
-        "name": "LuxuryWatch Red"
-    },
-    {
-        "row": 4,
-        "active": true,
-        "col": 4,
-        "id": "machi-esports",
-        "name": "Machi Esports"
-    },
-    {
-        "row": 4,
-        "active": true,
-        "col": 5,
-        "id": "mega-thunder",
-        "name": "MEGA Thunder"
-    },
-    {
-        "row": 4,
-        "active": true,
-        "col": 6,
-        "id": "meta-athena",
+        "row": "05",
         "name": "Meta Athena"
     },
-    {
-        "row": 4,
+    "counter-logic-gaming": {
+        "sheet": "teams",
+        "col": "05",
+        "active": false,
+        "row": "02",
+        "name": "Counter Logic Gaming"
+    },
+    "faze": {
+        "sheet": "teams",
+        "col": "02",
         "active": true,
-        "col": 7,
-        "id": "meta-bellum",
-        "name": "Meta Bellum"
+        "row": "03",
+        "name": "FaZe"
     },
-    {
-        "row": 4,
+    "you-guys-get-paid": {
+        "sheet": "teams",
+        "col": "07",
         "active": false,
-        "col": 8,
-        "id": "method",
-        "name": "Method"
-    },
-    {
-        "row": 4,
-        "active": true,
-        "col": 9,
-        "id": "miracle-team-one",
-        "name": "Miracle Team One"
-    },
-    {
-        "row": 4,
-        "active": true,
-        "col": 10,
-        "id": "super-number-1",
-        "name": "Super Number 1"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 0,
-        "id": "miraculous-youngster",
-        "name": "Miraculous Youngster"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 1,
-        "id": "misfits",
-        "name": "Misfits"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 2,
-        "id": "movistar-riders",
-        "name": "Movistar Riders"
-    },
-    {
-        "row": 5,
-        "active": true,
-        "col": 3,
-        "id": "mvp-space",
-        "name": "MVP Space"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 4,
-        "id": "nga",
-        "name": "NGA"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 5,
-        "id": "ninjas-in-pyjamas",
-        "name": "Ninjas in Pyjamas"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 6,
-        "id": "nrg",
-        "name": "NRG"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 7,
-        "id": "oh-my-god",
-        "name": "Oh My God"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 8,
-        "id": "renegades",
-        "name": "Renegades"
-    },
-    {
-        "row": 5,
-        "active": false,
-        "col": 9,
-        "id": "reunited",
-        "name": "Reunited"
-    },
-    {
-        "row": 5,
-        "active": true,
-        "col": 10,
-        "id": "t1w",
-        "name": "T1w"
-    },
-    {
-        "row": 6,
-        "active": false,
-        "col": 0,
-        "id": "rise-nation",
-        "name": "Rise Nation"
-    },
-    {
-        "row": 6,
-        "active": false,
-        "col": 1,
-        "id": "rogue",
-        "name": "Rogue"
-    },
-    {
-        "row": 6,
-        "active": false,
-        "col": 2,
-        "id": "rox-orcas",
-        "name": "ROX Orcas"
-    },
-    {
-        "row": 6,
-        "active": true,
-        "col": 3,
-        "id": "runaway",
-        "name": "RunAway"
-    },
-    {
-        "row": 6,
-        "active": true,
-        "col": 4,
-        "id": "rx-foxes",
-        "name": "Foxes"
-    },
-    {
-        "row": 6,
-        "active": true,
-        "col": 5,
-        "id": "san-francisco-shock",
-        "name": "San Francisco Shock"
-    },
-    {
-        "row": 6,
-        "active": true,
-        "col": 6,
-        "id": "scylla-esports",
-        "name": "Scylla Esports"
-    },
-    {
-        "row": 6,
-        "active": false,
-        "col": 7,
-        "id": "selfless-gaming",
-        "name": "Selfless Gaming"
-    },
-    {
-        "row": 6,
-        "active": true,
-        "col": 8,
-        "id": "shanghai-dragons",
-        "name": "Shanghai Dragons"
-    },
-    {
-        "row": 6,
-        "active": true,
-        "col": 9,
-        "id": "team-gigantti",
-        "name": "Team Gigantti"
-    },
-    {
-        "row": 6,
-        "active": true,
-        "col": 10,
-        "id": "team-laffey",
-        "name": "Team Laffey"
-    },
-    {
-        "row": 7,
-        "active": false,
-        "col": 0,
-        "id": "team-liquid",
-        "name": "Team Liquid"
-    },
-    {
-        "row": 7,
-        "active": false,
-        "col": 1,
-        "id": "team-singularity",
-        "name": "Team Singularity"
-    },
-    {
-        "row": 7,
-        "active": false,
-        "col": 2,
-        "id": "tempo-storm",
-        "name": "Tempo Storm"
-    },
-    {
-        "row": 7,
-        "active": true,
-        "col": 3,
-        "id": "vici-gaming",
-        "name": "Vici Gaming"
-    },
-    {
-        "row": 7,
-        "active": false,
-        "col": 4,
-        "id": "vivis-adventure",
-        "name": "Vivi's Adventure"
-    },
-    {
-        "row": 7,
-        "active": true,
-        "col": 5,
-        "id": "x6-gaming",
-        "name": "X6-Gaming"
-    },
-    {
-        "row": 7,
-        "active": false,
-        "col": 6,
-        "id": "you-guys-get-paid",
+        "row": "08",
         "name": "You Guys Get Paid?"
     },
-    {
-        "row": 7,
+    "scylla-esports": {
+        "sheet": "teams",
+        "col": "07",
         "active": true,
-        "col": 7,
-        "id": "los-angeles-valiant",
-        "name": "Los Angeles Valiant"
+        "row": "07",
+        "name": "Scylla Esports"
     },
-    {
-        "row": 7,
+    "lgd-gaming": {
+        "sheet": "teams",
+        "col": "07",
         "active": true,
-        "col": 8,
-        "id": "boston-uprising",
+        "row": "04",
+        "name": "LGD Gaming"
+    },
+    "reunited": {
+        "sheet": "teams",
+        "col": "10",
+        "active": false,
+        "row": "06",
+        "name": "Reunited"
+    },
+    "hong-kong-attitude": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "03",
+        "name": "Hong Kong Attitude"
+    },
+    "kongdoo-uncia": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "04",
+        "name": "KongDoo Uncia"
+    },
+    "gamersorigin": {
+        "sheet": "teams",
+        "col": "08",
+        "active": false,
+        "row": "03",
+        "name": "GamersOrigin"
+    },
+    "gladiators-legion": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "04",
+        "name": "Gladiators Legion"
+    },
+    "jam-gaming": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "12",
+        "name": "Jam Gaming"
+    },
+    "boston-uprising": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "08",
         "name": "Boston Uprising"
     },
-    {
-        "row": 7,
+    "dallas-fuel": {
+        "sheet": "teams",
+        "col": "06",
         "active": true,
-        "col": 9,
-        "id": "seoul-dynasty",
-        "name": "Seoul Dynasty"
+        "row": "02",
+        "name": "Dallas Fuel"
     },
-    {
-        "row": 7,
-        "active": true,
-        "col": 10,
-        "id": "those-guys",
-        "name": "Those Guys"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 0,
-        "id": "new-york-excelsior",
-        "name": "New York Excelsior"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 1,
-        "id": "houston-outlaws",
-        "name": "Houston Outlaws"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 2,
-        "id": "london-spitfire",
-        "name": "London Spitfire"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 3,
-        "id": "philadelphia-fusion",
-        "name": "Philadelphia Fusion"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 4,
-        "id": "florida-mayhem",
-        "name": "Florida Mayhem"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 5,
-        "id": "los-angeles-gladiators",
-        "name": "Los Angeles Gladiators"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 6,
-        "id": "lingan-e-sports",
-        "name": "LinGan e-Sports"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 7,
-        "id": "laoyinbi",
-        "name": "LaoYinBi"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 8,
-        "id": "seven",
-        "name": "Seven"
-    },
-    {
-        "row": 8,
-        "active": true,
-        "col": 9,
-        "id": "team-cc",
-        "name": "Team CC"
-    },
-    {
-        "row": 9,
-        "active": true,
-        "col": 0,
-        "id": "element-mystic",
-        "name": "Element Mystic"
-    },
-    {
-        "row": 9,
+    "team-liquid": {
+        "sheet": "teams",
+        "col": "01",
         "active": false,
-        "col": 1,
-        "id": "yikes",
-        "name": "YIKES!"
+        "row": "08",
+        "name": "Team Liquid"
     },
-    {
-        "row": 9,
+    "toronto-esports": {
+        "sheet": "teams",
+        "col": "13",
         "active": true,
-        "col": 2,
-        "id": "angry-titans",
-        "name": "Angry Titans"
+        "row": "07",
+        "name": "Toronto Esports"
     },
-    {
-        "row": 9,
+    "nocturns-gaming": {
+        "sheet": "teams",
+        "col": "04",
         "active": true,
-        "col": 3,
-        "id": "cis-hope",
-        "name": "CIS hope"
+        "row": "12",
+        "name": "Nocturns Gaming"
     },
-    {
-        "row": 9,
+    "kungarna": {
+        "sheet": "teams",
+        "col": "04",
         "active": true,
-        "col": 4,
-        "id": "dose",
-        "name": "Dose"
+        "row": "04",
+        "name": "Kungarna"
     },
-    {
-        "row": 9,
+    "fnatic": {
+        "sheet": "teams",
+        "col": "05",
+        "active": false,
+        "row": "03",
+        "name": "Fnatic"
+    },
+    "encore-esports": {
+        "sheet": "teams",
+        "col": "01",
         "active": true,
-        "col": 5,
-        "id": "eagle-gaming",
+        "row": "12",
+        "name": "Encore Esports"
+    },
+    "oneshine-esports": {
+        "sheet": "teams",
+        "col": "02",
+        "active": true,
+        "row": "13",
+        "name": "OneShine Esports"
+    },
+    "los-angeles-valiant": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "08",
+        "name": "Los Angeles Valiant"
+    },
+    "123": {
+        "sheet": "teams",
+        "col": "01",
+        "active": false,
+        "row": "01",
+        "name": "123"
+    },
+    "fnrgfe": {
+        "sheet": "teams",
+        "col": "06",
+        "active": false,
+        "row": "03",
+        "name": "FNRGFE"
+    },
+    "mvp-space": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "06",
+        "name": "MVP Space"
+    },
+    "ftd-club": {
+        "sheet": "teams",
+        "col": "07",
+        "active": false,
+        "row": "03",
+        "name": "FTD Club"
+    },
+    "x6-gaming": {
+        "sheet": "teams",
+        "col": "06",
+        "active": true,
+        "row": "08",
+        "name": "X6-Gaming"
+    },
+    "lucky-future": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "04",
+        "name": "Lucky Future"
+    },
+    "lunatic-hai": {
+        "sheet": "teams",
+        "col": "02",
+        "active": true,
+        "row": "05",
+        "name": "Lunatic-Hai"
+    },
+    "ws-esports": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "12",
+        "name": "Battalion E-sports"
+    },
+    "moss-seven-club": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "10",
+        "name": "Moss Seven Club"
+    },
+    "skadis-gift": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "03",
+        "name": "Skadi's Gift"
+    },
+    "witchhunt": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "11",
+        "name": "Witchhunt"
+    },
+    "dogma": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "11",
+        "name": "Dogma Esports"
+    },
+    "arc-6": {
+        "sheet": "teams",
+        "col": "06",
+        "active": false,
+        "row": "01",
+        "name": "ARC 6"
+    },
+    "eagle-gaming": {
+        "sheet": "teams",
+        "col": "06",
+        "active": true,
+        "row": "10",
         "name": "Eagle Gaming"
     },
-    {
-        "row": 9,
-        "active": true,
-        "col": 6,
-        "id": "ence-esports",
-        "name": "ENCE eSports"
+    "1246": {
+        "sheet": "teams",
+        "col": "02",
+        "active": false,
+        "row": "01",
+        "name": "1246"
     },
-    {
-        "row": 9,
+    "oh-my-god": {
+        "sheet": "teams",
+        "col": "08",
+        "active": false,
+        "row": "06",
+        "name": "Oh My God"
+    },
+    "miracle-team-one": {
+        "sheet": "teams",
+        "col": "10",
         "active": true,
-        "col": 7,
-        "id": "jigsaw",
+        "row": "05",
+        "name": "Miracle Team One"
+    },
+    "those-guys": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "08",
+        "name": "Those Guys"
+    },
+    "young-and-beautiful": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "02",
+        "name": "Young And Beautiful"
+    },
+    "bazaar": {
+        "sheet": "teams",
+        "col": "03",
+        "active": true,
+        "row": "13",
+        "name": "Bazaar"
+    },
+    "element-mystic": {
+        "sheet": "teams",
+        "col": "01",
+        "active": true,
+        "row": "10",
+        "name": "Element Mystic"
+    },
+    "one-of-us": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "06",
+        "name": "One Of Us"
+    },
+    "rx-foxes": {
+        "sheet": "teams",
+        "col": "05",
+        "active": true,
+        "row": "07",
+        "name": "Foxes"
+    },
+    "houston-outlaws": {
+        "sheet": "teams",
+        "col": "02",
+        "active": true,
+        "row": "09",
+        "name": "Houston Outlaws"
+    },
+    "orgless-hungry": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "01",
+        "name": "Orgless & Hungry"
+    },
+    "up": {
+        "sheet": "teams",
+        "col": "07",
+        "active": true,
+        "row": "12",
+        "name": "Keyd Gaming"
+    },
+    "moonlight": {
+        "sheet": "teams",
+        "col": "05",
+        "active": true,
+        "row": "11",
+        "name": "Surge Esports Club"
+    },
+    "optic-academy": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "06",
+        "name": "Optic Academy"
+    },
+    "rise-nation": {
+        "sheet": "teams",
+        "col": "01",
+        "active": false,
+        "row": "07",
+        "name": "Rise Nation"
+    },
+    "t1w": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "06",
+        "name": "T1w"
+    },
+    "thats-a-disband": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "02",
+        "name": "That's A Disband"
+    },
+    "cloud9-kongdoo": {
+        "sheet": "teams",
+        "col": "02",
+        "active": false,
+        "row": "02",
+        "name": "Cloud9 KongDoo"
+    },
+    "xavier-young": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "12",
+        "name": "Xavier Esports"
+    },
+    "seven": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "09",
+        "name": "Seven"
+    },
+    "detonatorkorea": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "12",
+        "name": "DeToNator.KOREA"
+    },
+    "nrg": {
+        "sheet": "teams",
+        "col": "07",
+        "active": true,
+        "row": "06",
+        "name": "NRG"
+    },
+    "complexity-gaming": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "02",
+        "name": "CompLexity Gaming"
+    },
+    "kongdoo-panthera": {
+        "sheet": "teams",
+        "col": "02",
+        "active": true,
+        "row": "04",
+        "name": "KongDoo Panthera"
+    },
+    "runaway": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "07",
+        "name": "RunAway"
+    },
+    "machi-esports": {
+        "sheet": "teams",
+        "col": "05",
+        "active": true,
+        "row": "05",
+        "name": "Machi Esports"
+    },
+    "o2-ardeont": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "03",
+        "name": "02 Ardeont"
+    },
+    "masterminds-gc": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "11",
+        "name": "Masterminds GC"
+    },
+    "angry-titans": {
+        "sheet": "teams",
+        "col": "03",
+        "active": true,
+        "row": "10",
+        "name": "Angry Titans"
+    },
+    "miraculous-youngster": {
+        "sheet": "teams",
+        "col": "01",
+        "active": false,
+        "row": "06",
+        "name": "Miraculous Youngster"
+    },
+    "last-nights-leftovers": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "09",
+        "name": "Last Night's Leftovers"
+    },
+    "squid12324": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "04",
+        "name": "Squid12324"
+    },
+    "ahq-e-sports-club": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "01",
+        "name": "ahq e-Sports Club"
+    },
+    "black-dragons": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "10",
+        "name": "Black Dragons"
+    },
+    "rox-orcas": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "07",
+        "name": "ROX Orcas"
+    },
+    "rogue": {
+        "sheet": "teams",
+        "col": "02",
+        "active": false,
+        "row": "07",
+        "name": "Rogue"
+    },
+    "luxurywatch-blue": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "05",
+        "name": "LuxuryWatch Blue"
+    },
+    "isurus-gaming": {
+        "sheet": "teams",
+        "col": "02",
+        "active": true,
+        "row": "12",
+        "name": "Isurus Gaming"
+    },
+    "piece-of-cake": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "02",
+        "name": "Piece of Cake"
+    },
+    "london-spitfire": {
+        "sheet": "teams",
+        "col": "03",
+        "active": true,
+        "row": "09",
+        "name": "London Spitfire"
+    },
+    "anox": {
+        "sheet": "teams",
+        "col": "05",
+        "active": false,
+        "row": "01",
+        "name": "Anox"
+    },
+    "alter-ego": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "09",
+        "name": "Alter Ego"
+    },
+    "libalent-supreme": {
+        "sheet": "teams",
+        "col": "08",
+        "active": false,
+        "row": "04",
+        "name": "Libalent Supreme"
+    },
+    "flash-lux": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "03",
+        "name": "Flash Lux"
+    },
+    "simplicity": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "07",
+        "name": "Simplicity"
+    },
+    "brasil-gaming-house": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "01",
+        "name": "Brasil Gaming House"
+    },
+    "evil-geniuses": {
+        "sheet": "teams",
+        "col": "01",
+        "active": false,
+        "row": "03",
+        "name": "Evil Geniuses"
+    },
+    "nocturnal-predators": {
+        "sheet": "teams",
+        "col": "06",
+        "active": true,
+        "row": "11",
+        "name": "NoCturnal Predators"
+    },
+    "serenity": {
+        "sheet": "teams",
+        "col": "07",
+        "active": true,
+        "row": "11",
+        "name": "SereNity"
+    },
+    "pain-gaming": {
+        "sheet": "teams",
+        "col": "05",
+        "active": true,
+        "row": "12",
+        "name": "Pain Gaming"
+    },
+    "talon-esports": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "09",
+        "name": "Talon Esports"
+    },
+    "luxurywatch-red": {
+        "sheet": "teams",
+        "col": "04",
+        "active": false,
+        "row": "05",
+        "name": "LuxuryWatch Red"
+    },
+    "nga": {
+        "sheet": "teams",
+        "col": "05",
+        "active": false,
+        "row": "06",
+        "name": "NGA"
+    },
+    "meta-bellum": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "05",
+        "name": "Meta Bellum"
+    },
+    "jigsaw": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "10",
         "name": "Jigsaw"
     },
-    {
-        "row": 9,
+    "shanghai-dragons": {
+        "sheet": "teams",
+        "col": "09",
         "active": true,
-        "col": 8,
-        "id": "lucky-future-zenith",
+        "row": "07",
+        "name": "Shanghai Dragons"
+    },
+    "eunited": {
+        "sheet": "teams",
+        "col": "10",
+        "active": false,
+        "row": "02",
+        "name": "eUnited"
+    },
+    "flash-wolves": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "03",
+        "name": "Flash Wolves"
+    },
+    "cloud9": {
+        "sheet": "teams",
+        "col": "01",
+        "active": false,
+        "row": "02",
+        "name": "Cloud9"
+    },
+    "conbox": {
+        "sheet": "teams",
+        "col": "04",
+        "active": false,
+        "row": "02",
+        "name": "CONBOX"
+    },
+    "laser-kittenz": {
+        "sheet": "teams",
+        "col": "05",
+        "active": false,
+        "row": "04",
+        "name": "Laser Kittenz"
+    },
+    "wgs-laurel-nine": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "04",
+        "name": "WGS"
+    },
+    "darksided": {
+        "sheet": "teams",
+        "col": "01",
+        "active": true,
+        "row": "11",
+        "name": "Darksided"
+    },
+    "renegades": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "06",
+        "name": "Renegades"
+    },
+    "los-angeles-gladiators": {
+        "sheet": "teams",
+        "col": "06",
+        "active": true,
+        "row": "09",
+        "name": "Los Angeles Gladiators"
+    },
+    "cis-hope": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "10",
+        "name": "CIS hope"
+    },
+    "legacy-esports": {
+        "sheet": "teams",
+        "col": "03",
+        "active": true,
+        "row": "11",
+        "name": "Legacy Esports"
+    },
+    "team-cc": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "09",
+        "name": "Team CC"
+    },
+    "seoul-dynasty": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "08",
+        "name": "Seoul Dynasty"
+    },
+    "super-number-1": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "05",
+        "name": "Super Number 1"
+    },
+    "logitechg-a-bang": {
+        "sheet": "teams",
+        "col": "01",
+        "active": true,
+        "row": "13",
+        "name": "LogitechG A Bang"
+    },
+    "san-francisco-shock": {
+        "sheet": "teams",
+        "col": "06",
+        "active": true,
+        "row": "07",
+        "name": "San Francisco Shock"
+    },
+    "predators-esports": {
+        "sheet": "teams",
+        "col": "06",
+        "active": true,
+        "row": "12",
+        "name": "Predators Esports"
+    },
+    "ence-esports": {
+        "sheet": "teams",
+        "col": "07",
+        "active": true,
+        "row": "10",
+        "name": "ENCE eSports"
+    },
+    "team-singularity": {
+        "sheet": "teams",
+        "col": "02",
+        "active": true,
+        "row": "08",
+        "name": "Team Singularity"
+    },
+    "gc-busan": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "03",
+        "name": "GC Busan"
+    },
+    "ninjas-in-pyjamas": {
+        "sheet": "teams",
+        "col": "06",
+        "active": false,
+        "row": "06",
+        "name": "Ninjas in Pyjamas"
+    },
+    "vivis-adventure": {
+        "sheet": "teams",
+        "col": "05",
+        "active": false,
+        "row": "08",
+        "name": "Vivi's Adventure"
+    },
+    "copenhagen-flames": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "01",
+        "name": "Copenhagen Flames"
+    },
+    "yikes": {
+        "sheet": "teams",
+        "col": "02",
+        "active": false,
+        "row": "10",
+        "name": "YIKES!"
+    },
+    "mayhem-academy": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "05",
+        "name": "Mayhem Academy"
+    },
+    "florida-mayhem": {
+        "sheet": "teams",
+        "col": "05",
+        "active": true,
+        "row": "09",
+        "name": "Florida Mayhem"
+    },
+    "envision": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "02",
+        "name": "EnVision eSports"
+    },
+    "movistar-riders": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "06",
+        "name": "Movistar Riders"
+    },
+    "lucky-future-zenith": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "10",
         "name": "Lucky Future Zenith"
     },
-    {
-        "row": 9,
+    "luminosity-gaming-evil": {
+        "sheet": "teams",
+        "col": "01",
+        "active": false,
+        "row": "05",
+        "name": "Luminosity Gaming Evil"
+    },
+    "envyus": {
+        "sheet": "teams",
+        "col": "09",
+        "active": false,
+        "row": "02",
+        "name": "EnVyUs"
+    },
+    "just-w": {
+        "sheet": "teams",
+        "col": "03",
         "active": true,
-        "col": 9,
-        "id": "moss-seven-club",
-        "name": "Moss Seven Club"
+        "row": "12",
+        "name": "Just W"
+    },
+    "kanga-esports": {
+        "sheet": "teams",
+        "col": "02",
+        "active": true,
+        "row": "11",
+        "name": "Kanga Esports"
+    },
+    "tempo-storm": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "08",
+        "name": "Tempo Storm"
+    },
+    "philadelphia-fusion": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "09",
+        "name": "Philadelphia Fusion"
+    },
+    "mosaic-esports": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "01",
+        "name": "Mosaic eSports"
+    },
+    "team-laffey": {
+        "sheet": "teams",
+        "col": "11",
+        "active": false,
+        "row": "07",
+        "name": "Team Laffey"
+    },
+    "misfits": {
+        "sheet": "teams",
+        "col": "02",
+        "active": false,
+        "row": "06",
+        "name": "Misfits"
+    },
+    "ldlc": {
+        "sheet": "teams",
+        "col": "06",
+        "active": false,
+        "row": "04",
+        "name": "LDLC"
+    },
+    "afreeca-freecs": {
+        "sheet": "teams",
+        "col": "03",
+        "active": false,
+        "row": "01",
+        "name": "Afreeca Freecs"
+    },
+    "immortals": {
+        "sheet": "teams",
+        "col": "01",
+        "active": false,
+        "row": "04",
+        "name": "Immortals"
+    },
+    "xl2-academy": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "08",
+        "name": "XL2 Academy"
+    },
+    "blossom": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "03",
+        "name": "Blossom"
+    },
+    "caverna-e-sports": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "11",
+        "name": "Caverna E-Sports"
+    },
+    "lingan-e-sports": {
+        "sheet": "teams",
+        "col": "07",
+        "active": true,
+        "row": "09",
+        "name": "LinGan e-Sports"
+    },
+    "mega-thunder": {
+        "sheet": "teams",
+        "col": "06",
+        "active": true,
+        "row": "05",
+        "name": "MEGA Thunder"
+    },
+    "british-hurricane": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "11",
+        "name": "British Hurricane"
+    },
+    "yoshimoto-encount": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "10",
+        "name": "Yoshimoto Encount"
+    },
+    "dose": {
+        "sheet": "teams",
+        "col": "05",
+        "active": true,
+        "row": "10",
+        "name": "Dose"
+    },
+    "blank-esports": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "01",
+        "name": "Blank Esports"
+    },
+    "ardeont": {
+        "sheet": "teams",
+        "col": "07",
+        "active": true,
+        "row": "01",
+        "name": "Ardeont"
+    },
+    "luminosity-gaming": {
+        "sheet": "teams",
+        "col": "10",
+        "active": false,
+        "row": "04",
+        "name": "Luminosity Gaming Loyal"
+    },
+    "new-york-excelsior": {
+        "sheet": "teams",
+        "col": "01",
+        "active": true,
+        "row": "09",
+        "name": "New York Excelsior"
+    },
+    "selfless-gaming": {
+        "sheet": "teams",
+        "col": "08",
+        "active": false,
+        "row": "07",
+        "name": "Selfless Gaming"
+    },
+    "grizzlys": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "05",
+        "name": "Grizzlys"
+    },
+    "sydney-dropbears": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "11",
+        "name": "Sydney Dropbears"
+    },
+    "team-gigantti": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "07",
+        "name": "Team Gigantti"
+    },
+    "vici-gaming": {
+        "sheet": "teams",
+        "col": "04",
+        "active": true,
+        "row": "08",
+        "name": "Vici Gaming"
+    },
+    "laoyinbi": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "09",
+        "name": "Legend Young Beyond"
+    },
+    "hero-taciturn-panther": {
+        "sheet": "teams",
+        "col": "10",
+        "active": true,
+        "row": "12",
+        "name": "Hero Taciturn Panther"
+    },
+    "bazooka-puppiez": {
+        "sheet": "teams",
+        "col": "08",
+        "active": true,
+        "row": "01",
+        "name": "Bazooka Puppiez"
+    },
+    "dignitas": {
+        "sheet": "teams",
+        "col": "07",
+        "active": false,
+        "row": "02",
+        "name": "Dignitas"
+    },
+    "tainted-minds": {
+        "sheet": "teams",
+        "col": "09",
+        "active": true,
+        "row": "11",
+        "name": "Tainted Minds"
+    },
+    "method": {
+        "sheet": "teams",
+        "col": "09",
+        "active": false,
+        "row": "05",
+        "name": "Method"
+    },
+    "blank-blue": {
+        "sheet": "teams",
+        "col": "11",
+        "active": true,
+        "row": "10",
+        "name": "Blank Blue"
+    },
+    "chaos-theory": {
+        "sheet": "teams",
+        "col": "12",
+        "active": true,
+        "row": "12",
+        "name": "Chaos Theory"
+    },
+    "fusion-university": {
+        "sheet": "teams",
+        "col": "13",
+        "active": true,
+        "row": "08",
+        "name": "Fusion University"
     }
-]
+}

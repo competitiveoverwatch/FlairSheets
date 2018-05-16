@@ -1,0 +1,34 @@
+Flair Name,Team ID,Active
+Argentina,flag-ar,FALSE
+Austria,flag-at,TRUE
+Australia,flag-au,TRUE
+Belgium,flag-be,FALSE
+Brazil,flag-br,TRUE
+Canada,flag-ca,TRUE
+China,flag-cn,TRUE
+Germany,flag-de,TRUE
+Denmark,flag-dk,TRUE
+Spain,flag-es,TRUE
+Finland,flag-fi,TRUE
+France,flag-fr,TRUE
+United Kingdom,flag-gb,TRUE
+Hong Kong,flag-hk,TRUE
+Israel,flag-il,FALSE
+Italy,flag-it,TRUE
+Japan,flag-jp,TRUE
+South Korea,flag-kr,TRUE
+Netherlands,flag-nl,TRUE
+Norway,flag-no,TRUE
+New Zealand,flag-nz,FALSE
+Poland,flag-pl,TRUE
+Portugal,flag-pt,FALSE
+Romania,flag-ro,FALSE
+Russia,flag-ru,TRUE
+Sweden,flag-se,TRUE
+Singapore,flag-sg,FALSE
+Thailand,flag-th,TRUE
+Turkey,flag-tr,FALSE
+Taiwan,flag-tw,TRUE
+United States,flag-us,TRUE
+Vietnam,flag-vn,FALSE
+Switzerland,flag-ch,TRUE

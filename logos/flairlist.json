@@ -1,65 +1,66 @@
-[
-    {
-        "row": 0,
-        "col": 0,
-        "id": "gosugamers",
+{
+    "overwatchleague": {
+        "sheet": "logos",
         "active": true,
-        "name": "GosuGamers"
+        "col": "03",
+        "name": "Overwatch League",
+        "row": "02"
     },
-    {
-        "row": 0,
-        "col": 1,
-        "id": "link",
+    "youtube": {
+        "sheet": "logos",
         "active": true,
-        "name": "Link"
+        "col": "03",
+        "name": "YouTube",
+        "row": "03"
     },
-    {
-        "row": 0,
-        "col": 2,
-        "id": "overgg",
-        "name": "Over.gg",
-        "active": true
-    },
-    {
-        "row": 1,
-        "col": 0,
-        "id": "liquipedia",
+    "twitch": {
+        "sheet": "logos",
         "active": true,
-        "name": "Liquipedia"
+        "col": "01",
+        "name": "Twitch",
+        "row": "03"
     },
-    {
-        "row": 1,
-        "col": 1,
-        "id": "mlg",
+    "liquipedia": {
+        "sheet": "logos",
         "active": true,
-        "name": "MLG"
+        "col": "01",
+        "name": "Liquipedia",
+        "row": "02"
     },
-    {
-        "col": 2,
-        "row": 1,
-        "id": "overwatchleague",
+    "overgg": {
+        "sheet": "logos",
         "active": true,
-        "name": "Overwatch League"
+        "col": "03",
+        "name": "over.gg",
+        "row": "01"
     },
-    {
-        "col": 0,
-        "row": 2,
-        "id": "twitch",
-        "active": true,
-        "name": "Twitch"
-    },
-    {
-        "col": 1,
-        "row": 2,
+    "winstonslab": {
         "id": "winstonslab",
         "active": true,
+        "sheet": "logos",
+        "row": "03",
+        "col": "02",
         "name": "Winston's Lab"
     },
-    {
-        "col": 2,
-        "row": 2,
-        "id": "youtube",
+    "link": {
+        "sheet": "logos",
         "active": true,
-        "name": "YouTube"
+        "col": "02",
+        "name": "Link",
+        "row": "01"
+    },
+    "gosugamers": {
+        "sheet": "logos",
+        "active": true,
+        "col": "01",
+        "name": "GosuGamers",
+        "row": "01"
+    },
+    "mlg": {
+        "sheet": "logos",
+        "active": true,
+        "col": "02",
+        "name": "MLG",
+        "row": "02"
     }
-]
+}

@@ -1,51 +1,51 @@
-[
-    {
-        "row": 0,
+{
+    "owlp-s1-bronze": {
+        "sheet": "special",
         "active": true,
-        "id": "blizzard",
-        "col": 0,
-        "name": "Blizzard"
+        "col": "02",
+        "row": "02",
+        "name": "OWL S1 Predictor: Stage Top 10"
     },
-    {
-        "row": 0,
+    "verified": {
+        "sheet": "special",
         "active": true,
-        "id": "verified",
-        "col": 1,
+        "col": "02",
+        "row": "01",
         "name": "Verified"
     },
-    {
-        "row": 0,
+    "owlp-s1-silver": {
+        "sheet": "special",
         "active": true,
-        "id": "internethulk",
-        "col": 2,
+        "col": "03",
+        "row": "02",
+        "name": "OWL S1 Predictor: Stage Top 3"
+    },
+    "internethulk": {
+        "sheet": "special",
+        "active": true,
+        "col": "03",
+        "row": "01",
         "name": "RIP INTERNETHULK"
     },
-    {
-        "row": 1,
+    "owlp-s1-weekly": {
+        "sheet": "special",
         "active": true,
-        "id": "owlp-s1-weekly",
-        "col": 0,
+        "col": "01",
+        "row": "02",
         "name": "OWL S1 Predictor: Weekly Winner"
     },
-    {
-        "row": 1,
+    "blizzard": {
+        "sheet": "special",
         "active": true,
-        "id": "owlp-s1-bronze",
-        "col": 1,
-        "name": "OWL S1 Predictor: Top 10"
+        "col": "01",
+        "row": "01",
+        "name": "Blizzard"
     },
-    {
-        "row": 1,
+    "owlp-s1-gold": {
+        "sheet": "special",
         "active": true,
-        "id": "owlp-s1-silver",
-        "col": 2,
-        "name": "OWL S1 Predictor: Top 3"
-    },
-    {
-        "row": 2,
-        "active": true,
-        "id": "owlp-s1-gold",
-        "col": 0,
-        "name": "OWL S1 Predictor: Winner"
+        "col": "01",
+        "row": "03",
+        "name": "OWL S1 Predictor: Stage Winner"
     }
-]
+}
